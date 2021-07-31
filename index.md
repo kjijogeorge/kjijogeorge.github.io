@@ -8,6 +8,7 @@
 - https://musclewiki.com/
 - https://www.futureme.org/
 - https://www.lightpollutionmap.info
+- https://ian-nai.github.io/In-Browser-OCR/
 
 ## AI/ML/DL/RL
 - https://paperswithcode.com
@@ -40,5 +41,3 @@
 - https://www.rev.com/
 - https://www.voices.com
 - https://www.fiverr.com/
-
-
