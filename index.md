@@ -13,6 +13,7 @@
 ## AI/ML/DL/RL
 - https://paperswithcode.com
 - https://huggingface.co/
+- https://experiments.withgoogle.com/experiments
 
 ## AI tools
 - https://deepart.io/
@@ -21,6 +22,9 @@
 - https://shortlyai.com
 - https://podcastle.ai/
 - https://paperswithcode.com
+- https://icons8.com/upscaler
+- https://measureup.withgoogle.com/
+- https://www.samcodes.co.uk/project/geometrize-haxe-web/
 
 ## Content creation
 - https://mixkit.co/
