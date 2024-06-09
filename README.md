@@ -1,5 +1,3 @@
-## Welcome to My Page
+## Welcome to Init
 
-Hello!
-
-[My Blog](https://kjijogeorge.github.io/)
+[Some random sites](https://kjijogeorge.github.io/)
